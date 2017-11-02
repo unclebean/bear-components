@@ -1,0 +1,7 @@
+{
+  "name": "bear-components",
+  "short_name": "bear-components",
+  "description": "web components spec",
+  "start_url": "/",
+  "display": "standalone"
+}
